@@ -18,11 +18,11 @@
 
 1. Baixando diretamente pelo github.
 
-    <img src="/Email-Python/readme/Github Download Repo.png" />
+    <img src="/Email-Python/Email-Python/readme/Github Download Repo.png" />
 
 2.  Baixando pelo "gitclone" no seu prompt de comando. (Sintaxe: git clone "https://www.site.com")
 
-    <img src="/Email-Python/readme/Git clone.png" />
+    <img src="/Email-Python/Email-Python/readme/Git clone.png" />
     
 <br>
 
@@ -45,16 +45,16 @@ Project in Python.
 
 1. Segue imagem de exemplo de e-mail enviado para o operador, notificando-o da pendência de monitoria de assinatura:
    
-   <img src="/Email-Python/readme/operador.png" />
+   <img src="/Email-Python/Email-Python/readme/operador.png" />
    
 3. Segue imagem de exemplo de e-mail enviado para o supervisor, notificando-o da pendência de monitoria de aplicação de feedback:
    
-   <img src="/Email-Python/readme/supervisor.png" />
+   <img src="/Email-Python/Email-Python/readme/supervisor.png" />
 
 5. Segue imagem de exemplo de e-mail enviado para o coordenadoir, notificando-o da pendência de monitoria de seu supervisor:
 
-   <img src="/Email-Python/readme/coordenador.jpg" />
+   <img src="/Email-Python/Email-Python/readme/coordenador.jpg" />
 
 7. Segue imagem de exemplo de e-mail enviado para o gerente, enviando um e-mail com contagem de monitorias por supervisor e coordenador:
    
-   <img src="/Email-Python/readme/gerente.jpg" />
+   <img src="/Email-Python/Email-Python/readme/gerente.jpg" />
