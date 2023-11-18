@@ -47,6 +47,7 @@ Contar a quantidade de e-mails enviados por cada supervisor e coordenador e-mail
 <br>
    <img src="/Email-Python/Email-Python/readme/operador.png" />
 <br>
+
 2. <strong>Segue imagem de exemplo de e-mail enviado para o supervisor, notificando-o da pendência de monitoria de aplicação de feedback:</strong>
 <br>
    <img src="/Email-Python/Email-Python/readme/supervisor.png" />
