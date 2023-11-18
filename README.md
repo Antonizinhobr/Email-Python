@@ -43,6 +43,8 @@ Contar a quantidade de e-mails enviados por cada supervisor e coordenador e-mail
 
 # Como funciona o disparo de e-mails?
 
+O programa em Python, disparador de e-mails, lê linha a linha da base/arquivo em EXCEl. Dentro de um loop em For, ele cria um e-mail para cada linha, utilizando o atributo iterrows, da biblioteca Pandas, e com isso, é montado um e-mail a partir da leitura de cada linha do EXCEL, e enviado dentro do loop do For, e somente acaba quando a leitura finaliza por completo. São 2 loops, um de enviar e-mail para o supervisor, outro para o coordenador, e ao final de tudo isso, contabiliza o envio de e-mails para cada e-mail de supervisor e coordenador, e armazena isso como variável dentro de um argumento de função, pois como cada loop em For está em funções diferentes, foi preciso criar uma THREAD com varíaveis globais de contagens ee utilizadas como argumentos de cada função de envio de e-mail e com isso, trazer esses argumentos como variáveis dentro do e-mail de envio ao gerente, para printar a contagem de cada e-mail e colocar no e-mail ao gerente como forma de relatório.
+
 1. <strong>Segue imagem de exemplo de e-mail enviado para o operador, notificando-o da pendência de monitoria de assinatura</strong>
 <br>
    <img src="/Email-Python/Email-Python/readme/operador.png" />
