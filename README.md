@@ -43,18 +43,18 @@ Contar a quantidade de e-mails enviados por cada supervisor e coordenador e-mail
 
 # Como funciona o disparo de e-mails?
 
-1. <font color="red"><strong>Segue imagem de exemplo de e-mail enviado para o operador, notificando-o da pendência de monitoria de assinatura</strong></font>
+1. <strong>Segue imagem de exemplo de e-mail enviado para o operador, notificando-o da pendência de monitoria de assinatura</strong>
    
-   <img src="/Email-Python/Email-Python/readme/operador.png" />
+   <img src="/Email-Python/Email-Python/readme/operador.png" width="10" height="20px"/>
    
-3. Segue imagem de exemplo de e-mail enviado para o supervisor, notificando-o da pendência de monitoria de aplicação de feedback:
+2. <strong>Segue imagem de exemplo de e-mail enviado para o supervisor, notificando-o da pendência de monitoria de aplicação de feedback:</strong>
    
    <img src="/Email-Python/Email-Python/readme/supervisor.png" />
 
-5. Segue imagem de exemplo de e-mail enviado para o coordenadoir, notificando-o da pendência de monitoria de seu supervisor:
+3. <strong>Segue imagem de exemplo de e-mail enviado para o coordenadoir, notificando-o da pendência de monitoria de seu supervisor:</strong>
 
    <img src="/Email-Python/Email-Python/readme/coordenador.jpg" />
 
-7. Segue imagem de exemplo de e-mail enviado para o gerente, enviando um e-mail com contagem de monitorias por supervisor e coordenador:
+4. <strong>Segue imagem de exemplo de e-mail enviado para o gerente, enviando um e-mail com contagem de monitorias por supervisor e coordenador:</strong>
    
    <img src="/Email-Python/Email-Python/readme/gerente.jpg" />
