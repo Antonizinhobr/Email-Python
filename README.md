@@ -31,19 +31,19 @@
 1. Disparador de e-mails através da leitura de linhas/colunas de uma base EXCEL.
 
 # Email-Python
-Project in Python.
+Projeto em Python.
 
-1. Its functionality is to read an EXCEL file/base, and form an email through each line reading.
+Sua funcionalidade é ler um arquivo/base EXCEL, e formar um e-mail a cada leitura de linha.
 
-1. The code reads each line in the EXCEL database, and creates an email for specific senders, with an email structured with data from that line read in EXCEL.
+O código lê cada linha do banco de dados EXCEL e cria um email para remetentes específicos, sendo um email estruturado com os dados dessa linha lidos no EXCEL.
 
-1. Project aimed at customer service monitoring, where it informs a telemarketing operator about their monitoring pending signature in the monitoring tool, alerting them and their supervisor (manager) of the pending monitoring via email.
+Projeto voltado ao monitoramento do atendimento ao cliente, onde informa a um operador de telemarketing sobre seu monitoramento pendente de assinatura na ferramenta de monitoramento, alertando ele e seu supervisor (gerente) sobre o monitoramento pendente via e-mail.
 
-1. Counting the number of e-mails sent by each supervisor and coordinator e-mail, where at the end, create an e-mail, bringing the count of each e-mail sent by supervisor and coordinator, creating an e-mail with these counts and sending it to the operations manager as a report.
+Contar a quantidade de e-mails enviados por cada supervisor e coordenador e-mail, onde ao final criar um e-mail, trazendo a contagem de cada e-mail enviado por supervisor e coordenador, criando um e-mail com essas contagens e enviá-lo ao gerente de operações como um relatório.
 
 # Como funciona o disparo de e-mails?
 
-1. Segue imagem de exemplo de e-mail enviado para o operador, notificando-o da pendência de monitoria de assinatura:
+1. <strong>Segue imagem de exemplo de e-mail enviado para o operador, notificando-o da pendência de monitoria de assinatura</strong>
    
    <img src="/Email-Python/Email-Python/readme/operador.png" />
    
